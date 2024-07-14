@@ -66,7 +66,7 @@ This project focuses on developing an authorization application in Python to pro
 
 1. **Run the Script**: 
     ```sh
-    python project.py
+    python3 project.py
     ```
 
 2. **Choose the Encryption Option**: Follow the on-screen prompts to select the option for encrypting a file or directory.
@@ -81,7 +81,7 @@ This project focuses on developing an authorization application in Python to pro
 
 1. **Run the Script**: 
     ```sh
-    python project.py
+    python3 project.py
     ```
 
 2. **Choose the Decryption Option**: Follow the on-screen prompts to select the option for decrypting a file or directory.
