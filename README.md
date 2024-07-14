@@ -11,7 +11,7 @@ This project focuses on developing an authorization application in Python to pro
 
 4. <b>Decryption</b>: Authenticate the user passphrase to retrieve and decrypt the file using the File Encryption Key.
 <h1>Prerequisites</h1>
-
+<list>
 -Knowledge of Linux File System Operations
 <br>
 
@@ -19,3 +19,5 @@ This project focuses on developing an authorization application in Python to pro
 <br>
 
 -Proficiency in programming languages suited for system software, such as Python
+
+</list>
