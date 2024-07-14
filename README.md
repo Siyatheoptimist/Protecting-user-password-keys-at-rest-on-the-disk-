@@ -22,13 +22,25 @@ This project focuses on developing an authorization application in Python to pro
 - Python 3.x
 - Required Python libraries (install via pip):
   - `cryptography`
-  - `argparse`
 
 ## Infrastructure Requirements
 
 ### Hardware
 
 - Any x86 based Desktop or Server with Linux
+
+## Installation
+
+1. **Clone the Repository**:
+    ```sh
+    git clone <repository_url>
+    cd <repository_directory>
+    ```
+
+2. **Install Required Python Libraries**:
+    ```sh
+    pip install cryptography 
+    ```
 
 ## Project Files
 
