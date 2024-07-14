@@ -2,6 +2,7 @@
 <h1>Project Overview</h1>
 This project focuses on developing an authorization application in Python to protect password keys at rest. The application encrypts user-chosen files or directories using AES-256 encryption and a randomly generated File Encryption Key (FEK). It securely stores the FEK in a file, protected by a user passphrase. The application ensures that neither the user passphrase nor the FEK is stored in plain text. Upon successful authentication of the user passphrase, the application retrieves and decrypts the file using the FEK.
 <h1>Features</h1>
+
 1.<b>Encryption</b>: Encrypt a user-chosen file or directory with AES-256 using a randomly generated File Encryption Key (FEK).
 <br>
 
