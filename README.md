@@ -4,7 +4,6 @@ This project focuses on developing an authorization application in Python to pro
 <h1>Features</h1>
 1.<b>Encryption</b>: Encrypt a user-chosen file or directory with AES-256 using a randomly generated File Encryption Key (FEK).
 <br>
-<br>
 2.<b>Key Storage</b>: Securely store the random key in a file protected by a user passphrase.
 <br>
 3.<b>Security</b>: Ensure neither the user passphrase nor the random key is stored in plain text.
