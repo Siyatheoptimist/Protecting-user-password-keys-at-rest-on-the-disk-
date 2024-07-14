@@ -33,8 +33,8 @@ This project focuses on developing an authorization application in Python to pro
 
 1. **Clone the Repository**:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Siyatheoptimist/Protecting-user-password-keys-at-rest-on-the-disk-.git
+    cd Protecting-user-password-keys-at-rest-on-the-disk-
     ```
 
 2. **Install Required Python Libraries**:
