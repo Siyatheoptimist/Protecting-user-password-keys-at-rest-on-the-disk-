@@ -102,4 +102,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to modify this `README.md` to suit your specific needs and include additional information if necessary.
