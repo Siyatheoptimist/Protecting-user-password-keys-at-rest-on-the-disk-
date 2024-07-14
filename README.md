@@ -19,6 +19,10 @@ This project focuses on developing an authorization application in Python to pro
 - Knowledge of Linux File System Operations
 - Understanding of Crypto Algorithms
 - Proficiency in programming languages suited for system software, such as Python
+- Python 3.x
+- Required Python libraries (install via pip):
+  - `cryptography`
+  - `argparse`
 
 ## Infrastructure Requirements
 
