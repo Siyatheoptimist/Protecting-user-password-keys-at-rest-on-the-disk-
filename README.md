@@ -1,6 +1,5 @@
 # Protecting user password keys at rest (on the disk)
 <h1>Project Description</h1>
-<br>
 This project focuses on developing an authorization application to protect password keys at rest, implemented in Python. The application provides robust encryption for user-selected files or directories using AES-256 encryption with a randomly generated File Encryption Key (FEK). The features of the application include:
 <br>
 <b>Encryption</b>: Encrypt a user-chosen file or directory with AES-256 using a randomly generated File Encryption Key (FEK).
