@@ -1,1 +1,1 @@
-# Protecting-user-password-keys-at-rest-on-the-disk-
+# Protecting user password keys at rest (on the disk)
